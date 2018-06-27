@@ -1,9 +1,9 @@
 {
   "Language": "GREEK",
 
-  "Creator.Notif.MANAGE_MESSAGES": "Το DisCal δεν εχει \"Manage Messages\" permissions in this channel! In order to use the the new creators DisCal must have these permissions! (HINT: Restart Creator/Editor after permissions are added!)",
-  "Creator.Calendar.Create.Init": "Calendar Creator initialized! Please specify the description with `!calendar description <desc, spaces allowed>`",
-  "Creator.Calendar.Edit.Init": "Calendar Editor initialized! Edit the values and confirm with `!calendar confirm`",
+  "Creator.Notif.MANAGE_MESSAGES": "Το DisCal δεν έχει \"Manage Messages\" δικαιώματα σε αυτό το κανάλι! Για να μπορέσει να χρησιμοποιήσει τον νέο δημιουργό το DisCal πρέπει να έχει αυτά τα δικαιώματα! (HINT: Κάντε επανεκκίνηση του Δημιουργού/Επεξεργαστή αφού προσθέσετε τα δικαιώματα!)",
+  "Creator.Calendar.Create.Init": "Ο δημιουργός Ημερολογίου έχει προετοιμαστεί! Παρακαλώ προσδιορίστε την περιγραφή με `!calendar description <περιγραφή, τα κενά επιτρέπονται>`",
+  "Creator.Calendar.Edit.Init": "Ο επεξεργαστής Ημερολογίου έχει προετοιμαστεί! Κάντε επεξεργασία τις τιμές και επιβεβαιώστε με `!calendar confirm`",
   "Creator.Calendar.Create.Name": "Please specify a name for the calendar!",
   "Creator.Calendar.Cancel.Success": "Calendar creation cancelled! Calendar Creator terminated!",
   "Creator.Calendar.Cancel.Edit.Success": "Calendar editing cancelled! Calendar Editor terminated!",
